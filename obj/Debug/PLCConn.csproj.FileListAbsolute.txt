@@ -1,0 +1,12 @@
+C:\Users\gjelard.weld\source\repos\PLCConn\bin\Debug\PLCConn.exe.config
+C:\Users\gjelard.weld\source\repos\PLCConn\bin\Debug\PLCConn.exe
+C:\Users\gjelard.weld\source\repos\PLCConn\bin\Debug\PLCConn.pdb
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\PLCConn.csprojAssemblyReference.cache
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\PLCConn.mitsuPLC.resources
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\PLCConn.Properties.Resources.resources
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\PLCConn.csproj.GenerateResource.cache
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\PLCConn.csproj.CoreCompileInputs.cache
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\PLCConn.exe
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\PLCConn.pdb
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\Interop.ACTETHERLib.dll
+C:\Users\gjelard.weld\source\repos\PLCConn\obj\Debug\PLCConn.csproj.ResolveComReference.cache
